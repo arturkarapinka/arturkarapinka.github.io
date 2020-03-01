@@ -1,0 +1,37 @@
+<html>
+	<head>
+		<title>notepad++</title>
+		<style>
+			body{
+				
+				background-image:url('fon.jpg');
+				background-attachment:fixed;
+				background-size: 130%;
+				color: green
+			}
+			p{
+				font-size: 20px;
+				font-family:Comic Sans MS;
+			}
+			#fon{
+				background-color:black;
+				opacity:0.8;
+				}
+			#name{
+			color:lime;
+			font-size:24px;
+			}
+			#start{
+				color: yellow;
+				}
+		</style>
+		
+	</head>
+
+	<body>
+		Notepad++ — текстовий редактор, призначений для програмістів і тих, кого не влаштовує скромна функціональність програми «блокнот», що входить до складу Windows. Notepad++ базується на компоненті Scintilla (потужному компоненті для редагування), написаному на C++ з використанням тільки Windows API і STL, що забезпечує максимальну швидкість роботи при мінімальному розмірі програми.
+Інтерфейс Notepad++ є багатомовним(українська мова присутня).
+Серед особливостей програми — підсвічування синтаксису та підтримка великої кількості мов програмування (C, C++, Java, XML, HTML, PHP, JavaScript, ASCII, Visual Basic / VBScript, SQL, Ruby, CSS, Pascal, Perl і Python), багатомовна підтримка.
+		
+	</body>
+</html>
